@@ -1,0 +1,184 @@
+@media screen and (max-width: 755px) {
+    header{
+        width: 10%;
+    }
+    .in-so-logo{
+        background-size: 100%;
+    }
+
+    .home-sec{
+        margin-left: 10%;
+        height: auto;
+        flex-direction: column;
+        /* background-color: green; */
+    }
+
+    .home-txt{
+        height: 500px;
+        width: 100%;
+        /* background-color: blue; */
+    }
+    .inner-home-txt h3{
+        font-size: 35px;
+    }
+    .home-icons{
+        width: 70%;
+    }
+
+    .home-img{
+        width: 100%;
+        height: 400px;
+        background-size: 100%;
+        background-position: center;
+        /* background-color: red; */
+    }
+
+    .contract-sec{
+        height: 1500px;
+        /* background-color: red; */
+        margin-left: 10%;
+        /* background-color: red; */
+    }
+
+    .inner-contract-sec h3{
+        width: 100%;
+        font-size: 35px;
+    }
+
+
+    .fpcards{
+        height: 55%;
+        width: 100%;
+        /* background-color: purple; */
+        align-items: center;
+        justify-content: center;
+    }
+    .fcards{
+        height: 200px;
+        width: 95%;
+        /* background-color: red; */
+        margin-top: 20px;
+
+    }
+
+
+    .fcard-txt h3{
+        font-size: 20px;
+        line-height: 150px;
+        width: 40%;
+        text-align: center;
+    }
+
+    .fcard-txt1 h3{
+        font-size: 18px;
+        text-align: center;
+        padding: 0px;
+    }
+
+    .fcard-txt p{
+        font-size: 12px;
+    }
+
+    .fcard-txt p a{
+        font-size: 14px;
+    }
+    .fimg{
+        width: 95%;
+    }
+
+    .tokenomics{
+        margin-left: 10%;
+        height: 1500px;
+        /* background-color: green; */
+    }
+.inner-tokenomics{
+    height: 100%;
+    justify-content: space-evenly;
+    /* background-color: blue; */
+}
+    
+    .inner-tokenomics h3{
+        font-size: 40px;
+    }
+.tokencard{
+    flex-direction: column;
+}
+
+    #in3{
+        font-size: 35px;
+    }
+    .tcard{
+        /* background-color: red; */
+        width: 100%;
+        height: 400px;
+    }
+
+    .team{
+        height: 1500px;
+        /* background-color: green; */
+    }
+
+    .inner-team{
+        height: auto;
+        width: 95%;
+    }
+
+    .inner-team h3{
+        font-size: 40px;
+    }
+
+    .div-team{
+        flex-direction: column;
+        justify-content: space-evenly;
+        /* background-color: red; */
+        height: auto;
+    }
+
+    .team-card{
+        width: 90%;
+        height: 450px;
+        margin-top: 20px;
+    }
+    footer{
+        height: auto;
+        margin-left: 10%;
+        /* background-color: red; */
+    }
+
+    .inner-footer{
+        flex-direction: column;
+        /* background-color: green; */
+        flex-direction: column;
+        height: auto;
+    }
+
+
+    .footer-content{
+        /* background-color: green; */
+        height: auto;
+        flex-direction: column;
+    }
+
+
+    .in-footer-contents{
+        /* background-color: yellow; */
+        width: 100%;
+        height: 300px;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .child-contents p{
+        height: auto;
+        font-size: 14px;
+    }
+
+    .in-footer-contents h3{
+        font-size: 25px;
+    }
+
+    .cop-footer{
+        height: 5%;
+    }
+
+}
